@@ -1,0 +1,5 @@
+# Ignore Python cache
+__pycache__/
+
+# Add more rules here based on your project requirements 
+# (e.g., C extensions, Unit test / coverage reports, virtual environments, build artifacts, IDE files, etc.)
